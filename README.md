@@ -3,7 +3,7 @@
 
 🚦 I'm currently working on developing neural networks to reconstruct neuroimaging signals for my thesis project with the Performance Science Lab. 
 
-💻 I'm interested in purusing research in the field of computational neuroscience. 
+💻 I'm interested in pursuing research in the field of computational neuroscience. 
 <!--
 **Minarose/Minarose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
