@@ -1,9 +1,7 @@
 ### Hi there 👋
-🧠 I'm a neuroscience undergraduate student at McMaster University.
+🧠 I'm a PhD candidate in physiology at the University of Toronto working in the Kadis Lab at the Hospital for Sick Children.
 
-🚦 I'm currently working on developing neural networks to reconstruct neuroimaging signals for my thesis project with the Performance Science Lab. 
-
-💻 I'm interested in pursuing research in the field of computational neuroscience. 
+💻 My research interests include neuroimaging, network neuroscience, and computational modelling.
 <!--
 **Minarose/Minarose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
