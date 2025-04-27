@@ -1,5 +1,6 @@
 ### Hi there 👋
-🧠 I'm a PhD candidate in physiology at the University of Toronto working in the Kadis Lab at the Hospital for Sick Children.
+🧠 I'm a PhD candidate in physiology at the University of Toronto working in the Kadis Lab at the Hospital for Sick Children 
+and the Whole Brain Modelling Group at the Krembil Centre for Neuroinformatics.
 
 💻 My research interests include neuroimaging, network neuroscience, and computational modelling.
 <!--
